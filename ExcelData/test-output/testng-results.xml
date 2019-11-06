@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65275" started-at="2019-11-06T10:27:13Z" finished-at="2019-11-06T10:28:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65275" started-at="2019-11-06T10:27:13Z" finished-at="2019-11-06T10:28:18Z">
+      <class name="com.qa.illuminate.test.LoginTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="Setup" is-config="true" duration-ms="4009" started-at="2019-11-06T10:27:13Z" finished-at="2019-11-06T10:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyLogintest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="verifyLogintest" duration-ms="12134" started-at="2019-11-06T10:27:17Z" data-provider="getTestLoginData" finished-at="2019-11-06T10:27:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhilash11@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abhi@123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="69" started-at="2019-11-06T10:27:29Z" finished-at="2019-11-06T10:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="Setup" is-config="true" duration-ms="3781" started-at="2019-11-06T10:27:30Z" finished-at="2019-11-06T10:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyLogintest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="verifyLogintest" duration-ms="12162" started-at="2019-11-06T10:27:33Z" data-provider="getTestLoginData" finished-at="2019-11-06T10:27:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[itAdmin@n2nservices.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[N2nservices!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="68" started-at="2019-11-06T10:27:46Z" finished-at="2019-11-06T10:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="Setup" is-config="true" duration-ms="3888" started-at="2019-11-06T10:27:46Z" finished-at="2019-11-06T10:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyLogintest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="verifyLogintest" duration-ms="12293" started-at="2019-11-06T10:27:49Z" data-provider="getTestLoginData" finished-at="2019-11-06T10:28:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhilashreddy123@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abhi@123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="67" started-at="2019-11-06T10:28:02Z" finished-at="2019-11-06T10:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="Setup" is-config="true" duration-ms="3774" started-at="2019-11-06T10:28:02Z" finished-at="2019-11-06T10:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyLogintest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="verifyLogintest" duration-ms="12702" started-at="2019-11-06T10:28:06Z" data-provider="getTestLoginData" finished-at="2019-11-06T10:28:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhilashreddy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhi124]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.illuminate.test.LoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="68" started-at="2019-11-06T10:28:18Z" finished-at="2019-11-06T10:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.illuminate.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
